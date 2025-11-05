@@ -1,0 +1,10 @@
+streamlit
+langchain_classic
+langchain-core
+langchain-community
+langchain-google-genai
+chromadb
+pydantic-settings
+asyncio
+langchain-chroma
+python-dotenv
