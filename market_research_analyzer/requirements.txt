@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-openai
+chromadb
+openai
+python-dotenv
+pypdf2
+beautifulsoup4
+requests
+pandas
+numpy
+tiktoken
+langchain_classic
